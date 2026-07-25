@@ -71,24 +71,6 @@ pytest tests/
 Ou execute diretamente pelo Playwright:
 playwright test 
 
-
-📂 Estrutura do Projeto
-FastAPI-TodoApp/
-├── TodoApp/
-│   ├── alembic/
-│   ├── routers/
-│   ├── static/
-│   ├── templates/
-│   ├── database.py
-│   ├── main.py
-│   ├── models.py
-│   └── ...
-├── tests/
-├── .gitignore
-├── README.md
-└── requirements.txt
-
-
 📖 Documentação da API
 O FastAPI disponibiliza documentação automática.
 
