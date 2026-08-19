@@ -4,5 +4,7 @@
     "editor.inlineSuggest.edits.allowCodeShifting": "never",
     "editor.inlineSuggest.enabled": false,
     "editor.inlineSuggest.syntaxHighlightingEnabled": false,
-    "editor.inlineSuggest.suppressInSnippetMode": false
+    "editor.inlineSuggest.suppressInSnippetMode": false,
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
